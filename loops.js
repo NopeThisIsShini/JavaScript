@@ -17,12 +17,12 @@ for ( const c of "Shini"){ // for-of loop is used for iterable data-structure li
     console.log(c)
 }
 let b=0;
-while(b<6){ // while loop
+while(b<6){ // while loop structure
     console.log(b);
     b++;
 }
 let i =10;
-do{
+do{ // do while loop
     console.log(i)
     i++;
 }while(i<4);

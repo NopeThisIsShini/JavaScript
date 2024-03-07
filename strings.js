@@ -1,3 +1,4 @@
+// strings are immutable
 console.log("This is strings tutorials")
 let a ="Shini"
 console.log(a)
